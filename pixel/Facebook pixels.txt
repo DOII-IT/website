@@ -1,0 +1,9 @@
+	Adding JavaScript to Your WordPress Site
+http://optinmonster.com/docs/adding-javascript-to-your-wordpress-site/
+
+	Head, Footer and Post Injections
+https://wordpress.org/plugins/header-footer/ 
+
+	https://wordpress.org/plugins/search.php?type=term&q=insert+Javascript
+
+https://www.facebook.com/business/help/952192354843755
